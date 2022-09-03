@@ -1125,6 +1125,8 @@ You can download the PDF and Epub version of this repository from the latest run
    **[⬆ Back to Top](#table-of-contents)**
     
 34. ### What are the lifecycle methods of React?
+![image](https://user-images.githubusercontent.com/50209377/188259483-f29a9bdb-4330-4bf5-9b72-9f49b503a698.png)
+
 
     Before React 16.3
 
