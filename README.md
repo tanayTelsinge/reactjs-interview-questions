@@ -497,6 +497,11 @@ You can download the PDF and Epub version of this repository from the latest run
 7. ### What are Pure Components?
 
     *`React.PureComponent`* is exactly the same as *`React.Component`* except that it handles the `shouldComponentUpdate()` method for you. When props or state changes, *PureComponent* will do a shallow comparison on both props and state. *Component* on the other hand won't compare current props and state to next out of the box. Thus, the component will re-render by default whenever `shouldComponentUpdate` is called.
+    
+    ![image](https://user-images.githubusercontent.com/50209377/188254300-fb120cba-be99-4c42-9b0a-955098468e42.png)
+![image](https://user-images.githubusercontent.com/50209377/188254316-7cc5fed0-c767-418e-8de5-cd94674a07c8.png)
+![image](https://user-images.githubusercontent.com/50209377/188254334-1ae5a74e-7544-415f-a560-94b2eb0dab6e.png)
+
 
 
    **[⬆ Back to Top](#table-of-contents)**
