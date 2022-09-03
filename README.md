@@ -1125,7 +1125,11 @@ You can download the PDF and Epub version of this repository from the latest run
    **[⬆ Back to Top](#table-of-contents)**
     
 34. ### What are the lifecycle methods of React?
+This diagram is for class based component lifecycle
 ![image](https://user-images.githubusercontent.com/50209377/188259483-f29a9bdb-4330-4bf5-9b72-9f49b503a698.png)
+This diagram is for function based component lifecycle
+![image](https://user-images.githubusercontent.com/50209377/188259770-29ed3909-68d5-4142-8d7e-c1287791cce9.png)
+
 
 
     Before React 16.3
